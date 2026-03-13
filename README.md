@@ -53,7 +53,7 @@ Project Maintainer: sheikh sahib
 
 Email: sahibsheikh26@gmail.com
 GitHub: @sheikhsahib-hub
-LinkedIn: sheikh sahib](https://linkedin.com/in/yourprofile)
+LinkedIn:(https://linkedin.com/in/sheikhsahib)
 🙏 Acknowledgments
 Academic
 Course instructors and mentors
